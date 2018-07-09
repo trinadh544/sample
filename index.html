@@ -2,9 +2,28 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>resume</title>
+    <title>flex</title>
+    <style>ro
+    .flex{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+    }
+
+    .flex>div{
+      background-color: #ddd;
+      margin: 2%;
+      padding: 2%;
+
+    }
+    </style>
   </head>
   <body>
-    <h1>my first project</h1>
+    <div class="flex">
+      <div> A</div>
+        <div>b</div>
+        <div> c</div>
+          <div>d</div>
+    </div>
   </body>
 </html>
