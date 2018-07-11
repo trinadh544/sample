@@ -1,0 +1,28 @@
+{
+  "profile":{
+    "name":"thrinadh",
+    "emails":"popsthrinadh@gmail.com",
+    "moblie":"9100638696",
+    "address":"pvpsit"
+  },
+"career":{
+  "info":"toxjkcbsamcnJXSBSJBCJBACnj"
+},
+"education":[{
+
+  "degree":"b-tech",
+  "institute":"pvpsit",
+  "data":["2016-19","89%"]
+},
+{
+  "degree":"b-tech",
+  "institute":"pvpsit",
+  "data":["2016-19","70%"]
+},
+{
+  "degree":"ssc",
+  "institute":"narayanajr.college",
+  "data":["2016-19","89%"]
+}
+]
+}
