@@ -9,8 +9,7 @@
   "info":"toxjkcbsamcnJXSBSJBCJBACnj"
 },
 "education":[{
-
-  "degree":"b-tech",
+"degree":"b-tech",
   "institute":"pvpsit",
   "data":["2016-19","89%"]
 },
@@ -23,6 +22,38 @@
   "degree":"ssc",
   "institute":"narayanajr.college",
   "data":["2016-19","89%"]
+}
+],
+"skills":[
+  {
+    "title":"programming languages",
+    "info":["c","c++","python","ruby","R"]
+  },
+  {
+    "title":"database",
+    "info":["mysql","oracle"]
+  },
+  {
+    "title":"opreating system",
+    "info":["windows","max"]
+  },
+  {
+    "title":"webtechonology",
+    "info":["html","css","java","xmal"]
+  }
+],
+"acheivements":[
+  {
+  "games":"koko",
+  "rank":["1"]
+},
+{
+  "games":"cricket",
+  "rank":["1"]
+},
+{
+  "games":"hokey",
+  "rank":["1"]
 }
 ]
 }

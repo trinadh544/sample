@@ -3,21 +3,35 @@
   flex-direction: row;
 }
 .parent{
-  border: 2px solid powderblue;
+  border: 2px solid #ddd;
+  background-color: A5FF33;
 }
 a{
   word-wrap: break-word;
 }
+table{
+  width:90%;
+}
+td{
+  padding: "2%"
+}
+tr:nth-child(even){
+  background:#ddd:
+}
+{
+  text-decoration: none;
+}
+
 .childone{
    width: 100%;
-  border: 2px solid powderblue;
+  border: 2px solid #ddd;
 padding: 3px;
 margin: 2px;
   border-radius: 10%;
 }
 .childtwo{
   width: 100%;
-  border: 3px solid powderblue;
+  border: 3px solid #ddd;
   padding: 2px;
   margin: 2px;
   border-radius: 10%;
@@ -71,24 +85,24 @@ box-shadow 6px 5px 1px 3px
   flex-direction: row;
 }
 .parent{
-  border:2px solid powderblue;
+  border:2px solid #ddd;
 }
 a{
   word-wrap: break-word;
 }
 .childone{  width: 50%;
-  border: 2px solid powderblue;
+  border: 2px solid #ddd;
 padding:3px;
 margin radius:10px;
-background-color: blue;background radius:10px;
+background-color: #ddd;background radius:10px;
 }
 .childtwo{
   width: 50%;
-  border:3px solid powderblue;
+  border:3px solid #ddd;
   padding: 2px;
   margin radius:10px;
   background radius:10px;
-  background-color: red;
+  background-color:#ddd;
 
 
 }
